@@ -1,5 +1,5 @@
 ### Babysauro 🦖
-** Computer engineering student & Apple Developer Acedmy Student 💻
+### Computer engineering student & Apple Developer Acedmy Student 💻
 
 - 📚 Hardworking and motivated computer engineering student with strong communication skills and the ability to be
 proactive. 
