@@ -1,4 +1,4 @@
-### Babysauro 🦖
+### Hello, I am Babysauro 🦖
 ### Computer engineering student & Apple Developer Acedmy Student 💻
 
 - 📚 Hardworking and motivated computer engineering student with strong communication skills and the ability to be
@@ -7,6 +7,8 @@ proactive.
 the future is an important way to ensure efficiency and progress.
 - 🎮 I also compose songs for videogames. 
 - 💡 My enthusiasm and willingness to learn and grow have seen me undertake external training to improve my skills.
+
+![babysauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=babysauro&show_icons=true&theme=tokyonight) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babysauro&theme=tokyonight&hide_progress=true)](https://github.com/babysauro/github-readme-stats)
 
 ___________________________________________________________________________________________________________________________
 ### 💼 Languages and Tools
