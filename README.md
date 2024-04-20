@@ -1,5 +1,6 @@
-### Hello, I am Babysauro 🦖
-### Computer engineering student & Apple Developer Acedmy Student 💻
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&weight=400&pause=1000&color=24B6F7&random=false&width=437&height=53&lines=Hello+!+👋;+I+'m+Serena+Savarese+!+🦖" alt="Typing SVG" /></a>
+
+<h3 align="centre">Computer engineering student & Apple Developer Acedmy Student 💻</h3>
 
 - 📚 Hardworking and motivated computer engineering student with strong communication skills and the ability to be
 proactive. 
