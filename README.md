@@ -56,9 +56,9 @@ ________________________________________________________________________________
 
 <!--
 <div align="center">
-   <h2> My Contributions </h2>
+   <h2>✅ My Contributions ✅</h2>
    <br>
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/babysauro/Babysauro/output/github-contribution-grid-snake.svg" />
+   <img src="https://github.com/babysauro/babysauro/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
 </div>
 -->
 
