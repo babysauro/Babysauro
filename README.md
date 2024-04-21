@@ -65,10 +65,10 @@ ________________________________________________________________________________
 <h2 align="center">⚡️My Stats⚡️</h2>
 <br>
 <div>
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=babysauro&theme=dark" alt="GitHub Streak" /></a>
-   <img src="https://github-readme-stats.vercel.app/api?username=babysauro&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Streak"/>
+   <a href="https://git.io/streak-stats"><img width=420 src="https://streak-stats.demolab.com?user=babysauro&theme=dark" alt="GitHub Streak" /></a>
+   <img width=400 src="https://github-readme-stats.vercel.app/api?username=babysauro&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Streak"/>
 </br>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babysauro&theme=dark&hide_progress=true" alt="top langs" />
+   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babysauro&theme=dark&hide_progress=true" alt="top langs" />
 </div>
 
 <!--
