@@ -9,6 +9,21 @@ the future is an important way to ensure efficiency and progress.
 - 🎮 I also compose songs for videogames. 
 - 💡 My enthusiasm and willingness to learn and grow have seen me undertake external training to improve my skills.
 
+<div align="center">
+   <a href="mailto:sesesa02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/serena-savarese-13a93024b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/channels/@me">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://soundcloud.com/babysauro-681006921">
+    <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
+  </a>
+</div>
+
 ![babysauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=babysauro&show_icons=true&theme=tokyonight) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babysauro&theme=tokyonight&hide_progress=true)](https://github.com/babysauro/github-readme-stats)
 
 ___________________________________________________________________________________________________________________________
