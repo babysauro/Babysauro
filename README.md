@@ -9,6 +9,7 @@ the future is an important way to ensure efficiency and progress.
 - 🎮 I also compose songs for videogames. 
 - 💡 My enthusiasm and willingness to learn and grow have seen me undertake external training to improve my skills.
 
+
 <div align="center">
    <a href="mailto:sesesa02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -24,28 +25,51 @@ the future is an important way to ensure efficiency and progress.
   </a>
 </div>
 
+
+<!--
 ![babysauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=babysauro&show_icons=true&theme=tokyonight) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babysauro&theme=tokyonight&hide_progress=true)](https://github.com/babysauro/github-readme-stats)
+-->
 
 ___________________________________________________________________________________________________________________________
-### 💼 Languages and Tools
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg"/>
-<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/>
-<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
-<img align="left" alt="Swift" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
-<img align="left" alt="VSCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="VStudio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"/>
-<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img align="left" alt="IOS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/>
-<img align="left" alt="XCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg"/>
-<img align="left" alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
-<img align="left" alt="LaTex" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg"/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+   <img  alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+   <img  alt="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg"/>
+   <img  alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/>
+   <img  alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
+   <img  alt="Swift" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
+   <img  alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+   <img  alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
+   <img  alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+   <img  alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
+   <img  alt="VSCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+   <img  alt="VStudio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"/>
+   <img  alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+   <img  alt="IOS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/>
+   <img  alt="XCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg"/>
+   <img  alt="Unity" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
+   <img  alt="LaTex" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg"/>
+</div>
+<br/>
+<hr/>
 
+<!--
+<div align="center">
+   <h2> My Contributions </h2>
+   <br>
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/babysauro/Babysauro/output/github-contribution-grid-snake.svg" />
+</div>
+-->
 
+<h2 align="center">⚡️My Stats⚡️</h2>
+<br>
+<div>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=babysauro&theme=dark" alt="GitHub Streak" /></a>
+   <img src="https://github-readme-stats.vercel.app/api?username=babysauro&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Streak"/>
+</br>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babysauro&theme=dark&hide_progress=true" alt="top langs" />
+</div>
 
 <!--
 **babysauro/Babysauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
