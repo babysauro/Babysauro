@@ -2,8 +2,8 @@
 
 <h3 align="centre">Computer engineering student, iOS & Game Developer 💻</h3>
 
-- 📚 Hardworking and motivated computer engineering student with strong communication skills and the ability to be
-proactive. 
+- 📚 I am in my final year of Computer engineering [Unina](http://www.unina.it/home;jsessionid=713EDAFF2C4FF71107586896FA049017.node_publisher12) and gratuated at [Apple Developer Academy](https://www.developeracademy.unina.it/it/)
+  <!-- Hardworking and motivated computer engineering student with strong communication skills and the ability to be proactive. -->
 - 🖥️ I am passionate about technology and innovation as I find that mapping out technological solutions for
 the future is an important way to ensure efficiency and progress.
 - 🎮 I also compose songs for videogames. 
@@ -61,7 +61,17 @@ ________________________________________________________________________________
    <img src="https://github.com/babysauro/babysauro/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
 </div>
 -->
-
+<details>
+<summary>⚡️My Stats⚡️</summary>
+<br>
+<div>
+   <a href="https://git.io/streak-stats"><img width=420 src="https://streak-stats.demolab.com?user=babysauro&theme=dark" alt="GitHub Streak" /></a>
+   <img width=400 src="https://github-readme-stats.vercel.app/api?username=babysauro&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Streak"/>
+</br>
+   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babysauro&theme=dark&hide_progress=true" alt="top langs" />
+</div>
+</details>
+<!--
 <h2 align="center">⚡️My Stats⚡️</h2>
 <br>
 <div>
@@ -70,7 +80,7 @@ ________________________________________________________________________________
 </br>
    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babysauro&theme=dark&hide_progress=true" alt="top langs" />
 </div>
-
+-->
 <!--
 **babysauro/Babysauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
