@@ -62,6 +62,15 @@ ________________________________________________________________________________
 </div>
 -->
 <details>
+  <summary>🎓Certification🎓</summary>
+  <ul>
+    <li><strong>Google Digital Training - Fundamentals of Digital Marketing</strong><br/>
+    <em>Issued by Google</em></li>
+  </ul>
+</details>
+
+
+<details>
 <summary>⚡️My Stats⚡️</summary>
 <br>
 <div>
