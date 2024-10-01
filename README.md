@@ -8,7 +8,7 @@
 the future is an important way to ensure efficiency and progress.
 - 🎮 I also compose songs for videogames. 
 - 💡 My enthusiasm and willingness to learn and grow have seen me undertake external training to improve my skills.
-- 🌍 Check out my website here: [My Portfolio Website](https://babysauro.github.io/BabysauroWebSite/) 
+<!-- - 🌍 Check out my website here: [My Portfolio Website](https://babysauro.github.io/BabysauroWebSite/) -->
 
 
 <div align="center">
