@@ -48,7 +48,7 @@ ________________________________________________________________________________
    <img  alt="VStudio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"/>
    <img  alt="XCode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg"/>
    <img  alt="Unity" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
-   <img  alt="LaTex" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg"/>
+   <img  alt="LaTex" width="50px" src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000"/>
    <img  alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
    <img  alt="IOS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/>
    <img  alt="Windows" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
