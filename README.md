@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&weight=400&pause=1000&color=24B6F7&random=false&width=437&height=60&lines=Hello+!+👋;+I+'m+Serena+Savarese+!+🦖" alt="Typing SVG" /></a>
 
-<h3 align="centre">Computer engineering student, iOS & Game Developer 💻</h3>
+<h3 align="centre">Undergraduate Computer Engineering, iOS & Game Developer 💻</h3>
 
 - 📚 I am in my final year of Computer engineering [Unina](http://www.unina.it/home;jsessionid=713EDAFF2C4FF71107586896FA049017.node_publisher12) and  [Apple Developer Academy](https://www.developeracademy.unina.it/it/) alumni
   <!-- Hardworking and motivated computer engineering student with strong communication skills and the ability to be proactive. -->
