@@ -2,7 +2,7 @@
 
 <h3 align="centre">Computer engineering student, iOS & Game Developer 💻</h3>
 
-- 📚 I am in my final year of Computer engineering [Unina](http://www.unina.it/home;jsessionid=713EDAFF2C4FF71107586896FA049017.node_publisher12) and gratuated at [Apple Developer Academy](https://www.developeracademy.unina.it/it/)
+- 📚 I am in my final year of Computer engineering [Unina](http://www.unina.it/home;jsessionid=713EDAFF2C4FF71107586896FA049017.node_publisher12) and graduaded at [Apple Developer Academy](https://www.developeracademy.unina.it/it/)
   <!-- Hardworking and motivated computer engineering student with strong communication skills and the ability to be proactive. -->
 - 🖥️ I am passionate about technology and innovation as I find that mapping out technological solutions for
 the future is an important way to ensure efficiency and progress.
