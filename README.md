@@ -32,7 +32,7 @@ the future is an important way to ensure efficiency and progress.
 -->
 
 ___________________________________________________________________________________________________________________________
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
    <img  alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
