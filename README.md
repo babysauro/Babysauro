@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&weight=400&pause=1000&color=24B6F7&random=false&width=437&height=60&lines=Hello+!+👋;+I+'m+Serena+Savarese+!+🦖" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Righteous&size=35&weight=400&pause=1000&color=24B6F7&random=false&width=437&height=60&lines=Hello+!+👋;I+'m+Serena+Savarese+!+🦖)](https://git.io/typing-svg)
 
 <h3 align="centre">Computer Engineering, iOS & Game Developer 💻</h3>
 
