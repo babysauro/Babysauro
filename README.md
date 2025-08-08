@@ -34,10 +34,12 @@ the future is an important way to ensure efficiency and progress.
 ___________________________________________________________________________________________________________________________
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
+  <!--
    <img  alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
    <img  alt="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg"/>
-   <img  alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/>
+   <img  alt="C" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
    <img  alt="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"/>
    <img  alt="Swift" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
    <img  alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -55,7 +57,10 @@ ________________________________________________________________________________
    <img  alt="IOS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/>
    <img  alt="Windows" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
    <img  alt="Android" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg"/>
-   
+   -->
+  <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,swift,py,html,js,css,vscode,visualstudio,unity,eclipse,latex,kubernetes,ableton,git"/>
+  
+  
 </div>
 <br/>
 <hr/>
