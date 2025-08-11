@@ -58,7 +58,7 @@ ________________________________________________________________________________
    <img  alt="Windows" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
    <img  alt="Android" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg"/>
    -->
-  <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,swift,py,html,js,css,vscode,visualstudio,unity,eclipse,latex,kubernetes,ableton,git"/>
+  <img src="https://skillicons.dev/icons?i=java,cs,c,cpp,swift,py,pytorch,html,js,css,vscode,visualstudio,unity,eclipse,latex,kubernetes,ableton,git"/>
   
   
 </div>
