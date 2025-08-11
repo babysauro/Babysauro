@@ -2,11 +2,11 @@
 
 <h3 align="centre">Computer Engineer, iOS & Game Developer 💻</h3>
 
-- 📚 I am a first-year Master’s student in Computer Engineering at [Unina](http://www.unina.it/home;jsessionid=713EDAFF2C4FF71107586896FA049017.node_publisher12) and  [Apple Developer Academy](https://www.developeracademy.unina.it/it/) alumni
+- 📚 I am a Master’s student in Computer Engineering at [Unina](http://www.unina.it/home;jsessionid=713EDAFF2C4FF71107586896FA049017.node_publisher12) and  [Apple Developer Academy](https://www.developeracademy.unina.it/it/) alumni
   <!-- Hardworking and motivated computer engineering student with strong communication skills and the ability to be proactive. -->
-- 🖥️ I am passionate about technology and innovation as I find that mapping out technological solutions for
+- 🖥️ I am passionate about technology and innovation, as I find that mapping out technological solutions for
 the future is an important way to ensure efficiency and progress.
-- 🎮 I also compose songs for videogames. 
+- 🎮 I also compose songs for video games. 
 - 💡 My enthusiasm and willingness to learn and grow have seen me undertake external training to improve my skills.
 <!-- - 🌍 Check out my website here: [My Portfolio Website](https://babysauro.github.io/BabysauroWebSite/) -->
 
