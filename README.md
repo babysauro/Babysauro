@@ -80,19 +80,20 @@ ________________________________________________________________________________
   </ul>
 </details>
 
-<!--
+
 <details>
 <summary>⚡️My Stats⚡️</summary>
 <br>
-<div>
-   <!--<a href="https://git.io/streak-stats"><img width=420 src="https://streak-stats.demolab.com?user=babysauro&theme=dark" alt="GitHub Streak" /></a> -->
-   <!--
-   <img width=400 src="https://github-readme-stats.vercel.app/api?username=babysauro&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Streak"/>
-</br>
-   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babysauro&theme=dark&hide_progress=true" alt="top langs" />
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com?user=babysauro&theme=dark" alt="GitHub Streak" />
+  </a>
 </div>
+  
+  ![snake gif](https://github.com/babysauro/Babysauro/blob/output/github-snake-dark.svg)
 </details>
--->
+
 
 
 
